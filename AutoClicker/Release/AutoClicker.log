@@ -1,0 +1,7 @@
+﻿  AutoClicker.cpp
+C:\Users\admin\Desktop\AutoClicker\AutoClicker\AutoClicker.cpp(89,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  AutoClicker.vcxproj -> C:\Users\admin\Desktop\AutoClicker\Release\AutoClicker.exe

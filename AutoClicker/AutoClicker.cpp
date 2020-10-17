@@ -38,7 +38,7 @@ static void startclicker()
 			while (true)
 			{
 
-				if(!clicking)
+				if (!clicking)
 				{
 					break;
 				}
@@ -62,7 +62,7 @@ static void startclicker()
 				}
 			}
 		}
-		
+
 	}
 }
 

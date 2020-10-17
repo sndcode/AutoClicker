@@ -1,0 +1,3 @@
+﻿  AutoClicker.cpp
+C:\Users\admin\Desktop\AutoClicker\AutoClicker\AutoClicker.cpp(89,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+  AutoClicker.vcxproj -> C:\Users\admin\Desktop\AutoClicker\Debug\AutoClicker.exe
