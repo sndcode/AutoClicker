@@ -1,9 +1,8 @@
 # AutoClicker
+C++ autoclicker for the mouse using its X and Y coordinates on screen
 When learning some lessons online,you have to click "Next" to continue watching next lesson.
 This program can detect if the Windows system is playing audio. 
 If not, it means the lesson is over -- that's the right opportunity to click "Next", automaticlly. 
-C++ autoclicker for the mouse using its X and Y coordinates on screen
-
 
 NumPad1 = save mouse position
 NumPad2 = activate autoclicker on saved position
