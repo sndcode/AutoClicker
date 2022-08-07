@@ -1,7 +1,7 @@
 # AutoClicker
-When llearning some lessons online,you have to click "Next" to continue.
+When learning some lessons online,you have to click "Next" to continue watching next lesson.
 This program can detect if the Windows system is playing audio. 
-If not, it means the lesson is over -- that's the right opportunity to click. 
+If not, it means the lesson is over -- that's the right opportunity to click "Next", automaticlly. 
 C++ autoclicker for the mouse using its X and Y coordinates on screen
 
 
