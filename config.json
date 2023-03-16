@@ -1,0 +1,20 @@
+{"hotkeys" : {
+    "savePos"       : "VK_NUMPAD1", //idk if this will work or if this is the right comment starter for json
+    "quit"          : "VK_ESCAPE",
+    "startClick"    : "VK_NUMPAD2",
+    "stopClick"     : "VK_NUMPAD3"
+    },   // END "hotkeys"
+
+ "savedLocations" : {
+    0               : "Empty"
+    1               : "Empty"
+    2               : "Empty"
+    3               : "Empty"
+    4               : "Empty"
+    5               : "Empty"
+    6               : "Empty"
+    7               : "Empty"
+    8               : "Empty"
+    9               : "Empty"
+ }      // END "savedLocations
+}       // <EOF> End of File
