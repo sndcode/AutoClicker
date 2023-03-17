@@ -1,0 +1,35 @@
+{
+    "hotkeys": {
+        "savePos": "VK_NUMPAD1", //idk if a string of a variable like this will work later.
+        "quit": "VK_ESCAPE",
+        "startClick": "VK_NUMPAD2",
+        "stopClick": "VK_NUMPAD3"
+    }, // END "hotkeys"
+
+    "config": {
+        "complex": false,
+        "pointAndClick": false
+    },
+
+    "savedLocations": {
+        "simple": {
+            "0": "Empty",
+            "1": "Empty",
+            "2": "Empty",
+            "3": "Empty",
+            "4": "Empty",
+            "5": "Empty",
+            "6": "Empty",
+            "7": "Empty",
+            "8": "Empty",
+            "9": "Empty"
+        }, //END "simple"
+
+        "complex": {
+            //probably will have more here or user will add and delete.
+            "name": "location"
+        } //END "complex"
+
+    } // END "savedLocations
+
+} // <EOF> End of File

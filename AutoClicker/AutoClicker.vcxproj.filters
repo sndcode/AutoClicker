@@ -18,5 +18,15 @@
     <ClCompile Include="AutoClicker.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="json.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="config.json" />
+    <None Include="README.MD" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="PointAndClicker.txt" />
   </ItemGroup>
 </Project>
